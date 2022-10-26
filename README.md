@@ -5,6 +5,7 @@ Made just for fun and educational purposes using [Fake Store API](https://fakest
 ### Built using:
 - [x] ReactJS
 - [x] Next.js
+- [x] Redux Toolkit
 - [x] Webhooks
 - [x] NextAuth
 - [x] Firestore

@@ -50,7 +50,7 @@ function CheckoutProduct({
         </div>
 
         <div className='flex flex-col my-auto justify-self-end'>
-            <button className='button' onClick={deleteItem}>Remove to Basket</button>
+            <button className='button' onClick={deleteItem}>Remove from Basket</button>
         </div>
     </div>
   )

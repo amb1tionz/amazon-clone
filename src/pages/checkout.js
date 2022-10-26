@@ -54,7 +54,7 @@ function Checkout() {
 
 
             {/* Right Side */}
-            <div className='flex flex-col bg-white p-10 shadow-md'>
+            <div className={`${items.length == 0 ? 'hidden' : 'flex flex-col bg-white p-10 shadow-md'}`}>
                 {items.length > 0 && (
                     <>
                         <h2 className='whitespace-nowrap'>
